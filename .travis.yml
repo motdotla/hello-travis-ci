@@ -4,4 +4,3 @@ node_js:
   - 16
 install:
   - npm install
-  - npm run build
